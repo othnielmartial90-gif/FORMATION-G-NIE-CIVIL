@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Corrections – Génie Civil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>Corrections</h1>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="exercices.html">Exercices</a>
+        <a href="corrections.html">Corrections</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Réponses</h2>
+    <ul>
+        <li>Exercice 1 : c) x²+3x+C</li>
+        <li>Exercice 2 : a) cos(x)</li>
+    </ul>
+</main>
+</body>
+</html>
