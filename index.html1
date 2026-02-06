@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Ressources Génie Civil – Cours et Exercices</title>
+<style>
+body { font-family: Arial, sans-serif; max-width: 1000px; margin: 20px; line-height: 1.6; }
+h1 { color: #1a73e8; border-bottom: 2px solid #1a73e8; padding-bottom: 5px; }
+h2 { color: #333; border-bottom: 1px solid #ccc; padding-bottom: 3px; }
+ul { margin: 10px 0 20px 20px; }
+a { color: #1a73e8; text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<h1>Ressources Génie Civil – Cours et Exercices</h1>
+<p>Bienvenue sur ce site qui regroupe **tous les sites gratuits pour apprendre le génie civil et faire des exercices**. Les ressources sont classées par module pour une formation complète.</p>
+
+<h2>Mois 1 – Fondamentaux</h2>
+<h3>Module 1 : Mathématiques appliquées</h3>
+<ul>
+<li><a href="https://www.khanacademy.org/math/calculus-1" target="_blank">Khan Academy – Calcul intégral et dérivées</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL3jF2qUtq4Q9_Qv0Sjp3eB7x_Ts6hZtEd" target="_blank">YouTube – Mathématiques Génie Civil</a></li>
+</ul>
+
+<h3>Module 2 : Physique / Mécanique</h3>
+<ul>
+<li><a href="https://www.khanacademy.org/science/physics" target="_blank">Khan Academy – Physique appliquée</a></li>
+<li><a href="https://www.youtube.com/results?search_query=statique+genie+civil" target="_blank">YouTube – Statique Génie Civil</a></li>
+</ul>
+
+<h3>Module 3 : Matériaux / Géotechnique</h3>
+<ul>
+<li><a href="https://www.etudiantgeniecivil.com" target="_blank">Etudiant Génie Civil – Exercices PDF</a></li>
+<li><a href="https://geniecivilpdf.com" target="_blank">GenieCivilPDF – PDF cours et exercices</a></li>
+<li><a href="https://fr.scribd.com/document/842371363/Exercices-de-Mise-en-Pratique-Geni-Civil" target="_blank">Exercices pratiques génie civil | Scribd</a></li>
+</ul>
+
+<h2>Mois 2 – Techniques</h2>
+<h3>Module 4 : AutoCAD / Revit</h3>
+<ul>
+<li><a href="https://www.autodesk.com/education/free-software/autocad" target="_blank">Autodesk AutoCAD – Gratuit pour étudiants</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLr7fU4N0c7LZ5xhnxN1y0rLxH7_sDuKyR" target="_blank">YouTube – Tutoriels Revit</a></li>
+</ul>
+
+<h3>Module 5 : RDM / Hydraulique</h3>
+<ul>
+<li><a href="https://www.khanacademy.org/science/physics" target="_blank">Khan Academy – Physique appliquée (forces et moments)</a></li>
+<li><a href="https://www.4geniecivil.com" target="_blank">4geniecivil.com – TD Excel, calculs RDM</a></li>
+</ul>
+
+<h2>Mois 3 – Projets appliqués</h2>
+<h3>Module 6 : Projets Ponts / Bâtiments / Chantiers</h3>
+<ul>
+<li><a href="https://www.alison.com/fr/tag/genie-civil" target="_blank">Alison – Cours gratuits Génie Civil</a></li>
+<li><a href="https://fr.slideshare.net/slideshow/400qcmgeniecivilaveccorrection-1-2pdf/262572952" target="_blank">400 QCM Génie Civil avec corrections</a></li>
+<li><a href="https://www.oiq.qc.ca/futurs-membres/devenir-ingenieur-au-quebec/programme-dacces-a-la-profession/" target="_blank">OIQ Québec – Accès à la profession d’ingénieur</a></li>
+</ul>
+
+<h2>Ressources supplémentaires</h2>
+<ul>
+<li><a href="https://www.joseouin.fr/allpdf/Math_BUT2_2eme-annee_extraits.pdf" target="_blank">Mathématiques appliquées pour Génie Civil</a></li>
+<li><a href="https://cdem.com/wp-content/uploads/Lire-des-plans.pdf" target="_blank">Lire des plans – Cahiers de l’apprenti</a></li>
+<li><a href="https://fr.linkedin.com/learning/topics/genie-civil" target="_blank">LinkedIn Learning – Cours Génie Civil (anciennement Lynda)</a></li>
+</ul>
+
+</body>
+</html>
